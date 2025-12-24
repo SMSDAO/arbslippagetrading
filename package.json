@@ -3,7 +3,7 @@
     "@truffle/hdwallet-provider": "^1.0.30",
     "@openzeppelin/contracts": "^2.5.0",
     "dotenv": "^8.2.0",
-    "web3": "^1.2.6",
+    "web3": "^1.10.4",
     "truffle-assertions": "^0.9.1"
   }
 }
